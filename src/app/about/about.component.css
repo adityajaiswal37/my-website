@@ -1,0 +1,29 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    top: 160px;
+}
+
+.profile{
+
+}
+.profile img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+h1{
+    font-size: 64px;
+    font-weight: lighter;
+}
+p{
+    font-size: 24px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 1.8em;
+    width: 900px;
+}

@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    top: 160px;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 64px;
+    font-weight: lighter;
+    margin-bottom: 0.5em; /* Adjust the value based on your preference */
+    padding-bottom: 0;    
+}
+h2{
+    font-size: 24px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 1.8em;
+    width: 580px;
+}
